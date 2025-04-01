@@ -9,6 +9,9 @@ namespace BFS_Alg
 {
     class Dothi
     {
+        private int i;
+        private int j;
+        private List<int> ke;
         private int sodinh;
         private int start;
         private int goal;
@@ -20,6 +23,8 @@ namespace BFS_Alg
             this.sodinh = -1;
             this.start = -1;
             this.matran = new int[7, 7];
+            this.ke = new List<int>();
+            readDothi();
         }
 
 
@@ -66,7 +71,7 @@ namespace BFS_Alg
         }
 
         // Phương thức trả về các đỉnh kề (succs) của một đỉnh cho trước
-        public IEnumerable<int> succs(int s)
+        /*public IEnumerable<int> succs(int s)
         {
             List<int> result = new List<int>();
 
@@ -80,7 +85,22 @@ namespace BFS_Alg
             }
 
             return result;
+        }*/
+
+        /*public List<int> succs(int s)
+        {
+            for (i = 0; i < this.sodinh; i++)
+            {
+                if (matran[s, i] == 1)
+                {
+                    ke.Add(i);
+                }
+            }
+            return ke;
         }
+        *
+        */
+
 
         public int Sodinh
         {

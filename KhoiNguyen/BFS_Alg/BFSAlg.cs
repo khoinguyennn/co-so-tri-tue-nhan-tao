@@ -32,19 +32,19 @@ namespace BFS_Alg
 
         public void BFSsearch()
         {
-            bool co = false;
+            bool kq = false;
             while (!q.Contains(dt.Goal) && q.Count > 0)
             {
-                // Duyệt qua tất cả các trạng thái trong hàng đợi q (tức là V_k)
-                int current = (int)q.Dequeue();  // Lấy trạng thái hiện tại từ hàng đợi
-
-                // Duyệt qua tất cả các trạng thái kế tiếp của trạng thái current
-                foreach (int next in dt.succs(current))  // dt.succs(current) trả về các trạng thái kế tiếp của current
+                while (!q.Contains(dt.Goal) && (q.Count) > 0)
                 {
-                    if (pre[next] == -2)  // Nếu trạng thái next chưa được thăm
+                    int u = (int)q.Dequeue();
+                    for (int v = 0; v < dt.Sodinh; v++)
                     {
-                        pre[next] = current;  // Gán previous[next] = current
-                        q.Enqueue(next);  // Thêm trạng thái next vào hàng đợi
+                        if (dt.MaTran[u, v] == 1 && pre[v] == -2) //Nếu u,v có đường đi và v chưa được đánh dấu
+                        {
+                            pre[v] = u;
+                            q.Enqueue(v);
+                        }
                     }
                 }
 
