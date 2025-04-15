@@ -1,0 +1,6 @@
+D:\khoinguyen\LCBFS_Alg\bin\Debug\LCBFS_Alg.exe.config
+D:\khoinguyen\LCBFS_Alg\obj\Debug\LCBFS_Alg.csprojResolveAssemblyReference.cache
+D:\khoinguyen\LCBFS_Alg\bin\Debug\LCBFS_Alg.exe
+D:\khoinguyen\LCBFS_Alg\bin\Debug\LCBFS_Alg.pdb
+D:\khoinguyen\LCBFS_Alg\obj\Debug\LCBFS_Alg.exe
+D:\khoinguyen\LCBFS_Alg\obj\Debug\LCBFS_Alg.pdb

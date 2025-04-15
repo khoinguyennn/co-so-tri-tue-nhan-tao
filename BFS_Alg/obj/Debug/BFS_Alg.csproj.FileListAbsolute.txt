@@ -1,0 +1,12 @@
+D:\khoinguyen\CoSoTriTueNhanTao\KhoiNguyen\BFS_Alg\bin\Debug\BFS_Alg.exe.config
+D:\khoinguyen\CoSoTriTueNhanTao\KhoiNguyen\BFS_Alg\obj\Debug\BFS_Alg.csprojResolveAssemblyReference.cache
+D:\khoinguyen\CoSoTriTueNhanTao\KhoiNguyen\BFS_Alg\bin\Debug\BFS_Alg.exe
+D:\khoinguyen\CoSoTriTueNhanTao\KhoiNguyen\BFS_Alg\bin\Debug\BFS_Alg.pdb
+D:\khoinguyen\CoSoTriTueNhanTao\KhoiNguyen\BFS_Alg\obj\Debug\BFS_Alg.exe
+D:\khoinguyen\CoSoTriTueNhanTao\KhoiNguyen\BFS_Alg\obj\Debug\BFS_Alg.pdb
+D:\khoinguyen\BFS_Alg\bin\Debug\BFS_Alg.exe.config
+D:\khoinguyen\BFS_Alg\obj\Debug\BFS_Alg.exe
+D:\khoinguyen\BFS_Alg\obj\Debug\BFS_Alg.pdb
+D:\khoinguyen\BFS_Alg\bin\Debug\BFS_Alg.exe
+D:\khoinguyen\BFS_Alg\bin\Debug\BFS_Alg.pdb
+D:\khoinguyen\BFS_Alg\obj\Debug\BFS_Alg.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS_Alg", "BFS_Alg\BFS_Alg.csproj", "{2607A86C-9AB2-4065-A2EF-467912572901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCBFS_Alg", "LCBFS_Alg\LCBFS_Alg.csproj", "{4764430B-198B-4C42-9E98-D03CBA70EE58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2607A86C-9AB2-4065-A2EF-467912572901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2607A86C-9AB2-4065-A2EF-467912572901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2607A86C-9AB2-4065-A2EF-467912572901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2607A86C-9AB2-4065-A2EF-467912572901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4764430B-198B-4C42-9E98-D03CBA70EE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4764430B-198B-4C42-9E98-D03CBA70EE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4764430B-198B-4C42-9E98-D03CBA70EE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4764430B-198B-4C42-9E98-D03CBA70EE58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
