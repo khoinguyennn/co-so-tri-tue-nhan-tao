@@ -1,0 +1,11 @@
+﻿int UCS(DOTHI g, PQUEUE &OPEN, Elmt CLOSE[]){}
+	- Khỏi tạo hàng đợi ưu tiên, tập đóng và đưa đinh start vào hàng đợi OPEN
+	- Trong khi hàng đợi còn phần tử
+	  Lấy phần tử có chi phí thấp nhất -->X
+	  Đưa X vào tập CLOSE
+	  Nếu X là đỉnh end thì dừng thuật toán, trả về 1. 
+          Ngược lại, xét tất cả các đỉnh sau J của đỉnh X
+		 + Nếu đỉnh J có trong tập OPEN rồi và đồng thời chi phí đến J từ X tốt hơn chi phí đến J hiện có trong OPEN thi cập nhật lại chi phí và đỉnh trước cho đỉnh J trong tập OPEN
+		 + Ngược lại, đưa đỉnh J vào tập OPEN
+	- Trả về 0 (Tim kiếm thất bại).
+}
