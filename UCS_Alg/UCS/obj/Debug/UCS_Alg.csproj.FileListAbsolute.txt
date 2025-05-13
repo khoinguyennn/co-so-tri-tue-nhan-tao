@@ -1,0 +1,5 @@
+D:\khoinguyen\UCS_Alg\UCS\bin\Debug\UCS.exe.config
+D:\khoinguyen\UCS_Alg\UCS\obj\Debug\UCS.exe
+D:\khoinguyen\UCS_Alg\UCS\obj\Debug\UCS.pdb
+D:\khoinguyen\UCS_Alg\UCS\bin\Debug\UCS.exe
+D:\khoinguyen\UCS_Alg\UCS\bin\Debug\UCS.pdb

@@ -14,7 +14,7 @@ namespace UCS
         private int goal;
         private int[,] matran;
 
-        
+
         public Dothi()
         {
             this.Sodinh = -1;
@@ -117,4 +117,3 @@ namespace UCS
         }
     }
 }
-

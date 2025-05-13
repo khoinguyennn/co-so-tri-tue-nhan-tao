@@ -1,0 +1,6 @@
+D:\khoinguyen\AStar_Alg\bin\Debug\AStar_Alg.exe.config
+D:\khoinguyen\AStar_Alg\obj\Debug\AStar_Alg.csprojResolveAssemblyReference.cache
+D:\khoinguyen\AStar_Alg\bin\Debug\AStar_Alg.exe
+D:\khoinguyen\AStar_Alg\bin\Debug\AStar_Alg.pdb
+D:\khoinguyen\AStar_Alg\obj\Debug\AStar_Alg.exe
+D:\khoinguyen\AStar_Alg\obj\Debug\AStar_Alg.pdb
